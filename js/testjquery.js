@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    $("p").html("jQuery was here");
+    $("p").append(" jQuery was here");
 });
