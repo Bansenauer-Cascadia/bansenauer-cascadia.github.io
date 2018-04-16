@@ -1,3 +1,5 @@
-$(document).ready(function(){
-    $("p").html("jQuery was here");
+$(function(){
+  $(".mine")
+      .html("jQuery was here")
+      .css("background-color","skyblue");
 });
