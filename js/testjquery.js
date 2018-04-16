@@ -6,4 +6,8 @@ $(function(){
             $(this).css("background-color","lightgreen");
         }  
     );
+
+  $(".mine")
+      .html("jQuery branch here")
+      .css("background-color","skyblue");
 });
